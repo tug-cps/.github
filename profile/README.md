@@ -62,16 +62,15 @@ The project [PV DiKlaWi](https://www.zukunftsfonds.steiermark.at/cms/beitrag/128
 
 
 ## Ongoing Projects
-[Smart2B](https://smart2b-project.eu) <br> 
-[I-Greta](https://www.i-greta.eu) <br> 
-[DomLearn](https://projekte.ffg.at/projekt/4372358) <br> 
-[UserGrids](https://projekte.ffg.at/projekt/3851877) <br> 
-[WhichWay](https://projekte.ffg.at/projekt/4401800) <br> 
-[DigitalEnergyTwin](https://digitalenergytwin.eu) <br> 
-[BEYOND](https://projekte.ffg.at/projekt/4123870) <br> 
-[Cool-Quarter-Plus](https://projekte.ffg.at/projekt/3793909) <br> 
-[NextGES](https://www.zukunftsfonds.steiermark.at/cms/beitrag/12851426/145290866/) <br> 
-[ANSERS](https://psychologie.uni-graz.at/en/social-psychology/research-projects/ansers/) <br> 
-[ANSERS](https://psychologie.uni-graz.at/en/social-psychology/research-projects/ansers/) <br> 
-[Annex 81: Data-Driven Smart Buildings](https://annex81.iea-ebc.org) <br> 
-[PV4EAG](https://projekte.ffg.at/projekt/4176714) <br> 
+[Smart2B](https://smart2b-project.eu): AI-based services to upgrate the smartness of legacy equipment <br> 
+[I-Greta](https://www.i-greta.eu): AI-based solutions to operate  highly flexible energy systems benefitting from storage capacities <br> 
+[DomLearn](https://projekte.ffg.at/projekt/4372358): Domain-Inofrmed ML techniques for intelligent systems <br> 
+[UserGrids](https://projekte.ffg.at/projekt/3851877): User-centered smart energy systems <br> 
+[WhichWay](https://projekte.ffg.at/projekt/4401800): Security and Pricavy apsects of IoT platforms <br> 
+[DigitalEnergyTwin](https://digitalenergytwin.eu): ML-based services for Industry 4.0 <br> 
+[BEYOND](https://projekte.ffg.at/projekt/4123870): Combining physical and ML modelling techniques <br> 
+[Cool-Quarter-Plus](https://projekte.ffg.at/projekt/3793909): ML-based cooling services <br> 
+[NextGES](https://www.zukunftsfonds.steiermark.at/cms/beitrag/12851426/145290866/): Physics-informed ML for different energy services <br> 
+[ANSERS](https://psychologie.uni-graz.at/en/social-psychology/research-projects/ansers/): User-centered energy services <br> 
+[Annex 81](https://annex81.iea-ebc.org): Data-Driven Smart Buildings <br> 
+[PV4EAG](https://projekte.ffg.at/projekt/4176714): Geo-AI to detect alternative areas for the construction of PV systems <br> 
