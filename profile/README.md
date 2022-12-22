@@ -32,8 +32,8 @@ The project [Distel](https://www.zukunftsfonds.steiermark.at/cms/beitrag/1289194
  ## Media Coverage
 
 * Video on [User-centered Energy Services](https://www.youtube.com/watch?v=OyQ_LLEbBEA) 
-* Video on [AI for intelligent energy systems](www.youtube.com)
-* Thoughts on **AI for intelligent energy systems** [DiePresse](https://www.diepresse.com/5983347/energie-intelligent-verbrauchen), [KleineZeitung](https://www.kleinezeitung.at/steiermark/5943999/Energiesysteme_Kuenstliche-Intelligenz-soll-Kunden-helfen), [Grazer](https://e-paper.grazer.at/13-november-2022/67383303) <br> 
+* ORF konkret - video on [AI for intelligent energy systems](https://tvthek.orf.at/history/Technik-und-Digitales/13557940/Energiewende-mit-kuenstlicher-Intelligenz/14131844)
+* Thoughts on AI for intelligent energy systems [DiePresse](https://www.diepresse.com/5983347/energie-intelligent-verbrauchen), [KleineZeitung](https://www.kleinezeitung.at/steiermark/5943999/Energiesysteme_Kuenstliche-Intelligenz-soll-Kunden-helfen), [Grazer](https://e-paper.grazer.at/13-november-2022/67383303) <br> 
 * Our living lab [Innovation District Inffeld](https://youtu.be/8b7QwC2dkvo) <br> 
 * Critical thoughts on [Smart Buildings](https://www.linkedin.com/posts/gerald-schweiger-b7116a1bb_my-thoughts-on-smart-buildings-activity-7009608036952477696-DE0_?utm_source=share&utm_medium=member_desktop) <br> 
 
