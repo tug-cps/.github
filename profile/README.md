@@ -6,6 +6,7 @@ Our interdisciplinary research group aims to bridge the gap between basic and ap
 * IoT Technologies for Intelligent Systems
 * User-centered Services
 
+
  <hr /> 
 
 ## Recent News 
@@ -45,6 +46,7 @@ The project [PV DiKlaWi](https://www.zukunftsfonds.steiermark.at/cms/beitrag/128
 
 ## People
 
+**Gerald Schweiger** - lab head, Habilitation in Intelligent Energy Systems <br> 
 **Qamar Alfalouji** - PhD student, master in ICT Engineering: Robust Machine Learning <br> 
 **Milos Babic** - student assistant, Bachelor in Computer Science: IoT and energy services <br> 
 **Mina Basirat** - PostDoc, PhD in Computer Science: Robust Machine Learning  <br> 
@@ -55,7 +57,6 @@ The project [PV DiKlaWi](https://www.zukunftsfonds.steiermark.at/cms/beitrag/128
 **Dominik Scheiber** - student assistant, Bachelor in Computer Science: Scalable IoT solutions <br> 
 **Sabrina Schönfelder** - student assistant, Bachelor in Economics: Project management <br> 
 **Thomas Schranz** - PhD student, Master in Computer Science: Physics informed machine learning <br> 
-**Gerald Schweiger** - lab head <br> 
 **Thomas Schwengler** - student assistant: Scalable IoT solutions <br> 
 **Sandra Wifling** - PhD student, Master in Information and Computer Engineering: Combining physical and ML modeling <br> 
 **Susanne Wulz** - student assistant, Bachelor in Computer Science: Transfer learning for energy prediction <br> 
