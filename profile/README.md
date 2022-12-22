@@ -15,17 +15,21 @@ Our [Paper](https://dl.acm.org/doi/abs/10.1145/3567591) "Constructing neural net
 
 Our [Paper](https://www.researchgate.net/publication/363770008_Short_Paper_Learning_Non-linear_White-box_Predictors_A_Use_Case_in_Energy_Systems) "Learning Non-linear White-box Predictors" got accepted at IEEE International Conference on Machine Learning and Applications ([IEEE ICMLA](https://www.icmla-conference.org/icmla22/IEEE-ICMLA-2022-Conference-Program.pdf))
 
-Our [Paper](https://www.climatechange.ai/papers/neurips2022/102) "Deep learning-based bias adjustment of decadal climate predictions" got accepted at NeurIPS 2022 Workshop: Tackling Climate Change with Machine Learning.
+Our [Paper](https://www.climatechange.ai/papers/neurips2022/102) "Deep learning-based bias adjustment of decadal climate predictions" got accepted at NeurIPS 2022 Workshop.
 
 Our [Paper](https://smart-conf.com/pdf/SMART22-Final-Program.pdf) "An Open IoT Platform: Lessons Learned from a District Energy System" got accepted at [IEEE SMART22](https://smart-conf.com/pdf/SMART22-Final-Program.pdf). 
 
-Our [Paper](https://ecp.ep.liu.se/index.php/modelica/article/view/571) "A Dymola-Python framework for data-driven model creation and co-simulation" got accepted at Modelica Conference 2022.
+Our [Paper](https://ecp.ep.liu.se/index.php/modelica/article/view/571) "A Dymola-Python framework for data-driven model creation and co-simulation" got accepted at Modelica Conf. 2022.
 
+Our [Paper](https://www.mdpi.com/2075-5309/12/5/526) "IoT Middleware Platforms for Smart Energy Systems" got accepted in Buildings.
+ 
  <hr /> 
 
-The project [OctoAI](https://projekte.ffg.at/projekt/4424980) will start in January 2023.  In OctoAI, we are developing the next generation of high-performance edge-AI for intelligent systems.
+The project [OctoAI](https://projekte.ffg.at/projekt/4424980) will start in January 2023. In OctoAI, we are developing the next generation of high-performance edge-AI for intelligent systems.
 
 The project [Distel](https://www.zukunftsfonds.steiermark.at/cms/beitrag/12891947/967663/) will start in January 2023. DISTEL's goal is to develop the next generation of physics-informed ML to control districts with high shares of storage.
+
+The project [PV DiKlaWi](https://www.zukunftsfonds.steiermark.at/cms/beitrag/12891947/967663/) will start in January 2023. The project will develop a camera system and a AI-based diagnostic method for fault detection of PV systems.
 
  <hr /> 
  
@@ -57,3 +61,17 @@ The project [Distel](https://www.zukunftsfonds.steiermark.at/cms/beitrag/1289194
 **Susanne Wulz** (student assistant, Bachelor in Computer Science): Transfer learning for energy prediction <br> 
 
 
+## Ongoing Projects
+[Smart2B](https://smart2b-project.eu) <br> 
+[I-Greta](https://www.i-greta.eu) <br> 
+[DomLearn](https://projekte.ffg.at/projekt/4372358) <br> 
+[UserGrids](https://projekte.ffg.at/projekt/3851877) <br> 
+[WhichWay](https://projekte.ffg.at/projekt/4401800) <br> 
+[DigitalEnergyTwin](https://digitalenergytwin.eu) <br> 
+[BEYOND](https://projekte.ffg.at/projekt/4123870) <br> 
+[Cool-Quarter-Plus](https://projekte.ffg.at/projekt/3793909) <br> 
+[NextGES](https://www.zukunftsfonds.steiermark.at/cms/beitrag/12851426/145290866/) <br> 
+[ANSERS](https://psychologie.uni-graz.at/en/social-psychology/research-projects/ansers/) <br> 
+[ANSERS](https://psychologie.uni-graz.at/en/social-psychology/research-projects/ansers/) <br> 
+[Annex 81: Data-Driven Smart Buildings](https://annex81.iea-ebc.org) <br> 
+[PV4EAG](https://projekte.ffg.at/projekt/4176714) <br> 
