@@ -57,7 +57,7 @@ The project [PV DiKlaWi](https://www.zukunftsfonds.steiermark.at/cms/beitrag/128
 **Thomas Schranz** (PhD student, Master in Computer Science): Physics informed machine learning <br> 
 **Gerald Schweiger** (lab head) <br> 
 **Thomas Schwengler** (student assistant): Scalable IoT solutions <br> 
-**Sandra Wifling** (PhD student, Master in Information and Computer Engineering): Combining physical and ML modeling approaches <br> 
+**Sandra Wifling** (PhD student, Master in Information and Computer Engineering): Combining physical and ML modeling <br> 
 **Susanne Wulz** (student assistant, Bachelor in Computer Science): Transfer learning for energy prediction <br> 
 
 
