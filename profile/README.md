@@ -45,20 +45,20 @@ The project [PV DiKlaWi](https://www.zukunftsfonds.steiermark.at/cms/beitrag/128
 
 ## People
 
-**Qamar Alfalouji** (PhD student, master in ICT Engineering): Robust Machine Learning <br> 
-**Milos Babic** (student assistant, Bachelor in Computer Science): IoT and energy services <br> 
-**Mina Basirat** (PostDoc, PhD in Computer Science):  <br> 
-**Masoud Ebrahimi** (PostDoc, PhD in Computer Science): Robust Cyber Physical Systems <br> 
+**Qamar Alfalouji** - PhD student, master in ICT Engineering: Robust Machine Learning <br> 
+**Milos Babic** - student assistant, Bachelor in Computer Science: IoT and energy services <br> 
+**Mina Basirat** - PostDoc, PhD in Computer Science: Robust Machine Learning  <br> 
+**Masoud Ebrahimi** - PostDoc, PhD in Computer Science: Robust Cyber Physical Systems <br> 
 **Johannes Exenberger** (PhD student, Master in Geospatial Technologies): Probabilistic Machine Learning <br> 
-**Nikolaus Kopp** (student assistant, Bachelor in ): Energy profiling and forecasting  <br> 
-**Tomi Nord** (student assistant, Bachelor in Mechanical Engineering): User-centered energy services <br> 
-**Dominik Scheiber** (student assistant, Bachelor in Computer Science): Scalable IoT solutions <br> 
-**Sabrina Schönfelder** (student assistant, Bachelor in Economics): <br> 
-**Thomas Schranz** (PhD student, Master in Computer Science): Physics informed machine learning <br> 
-**Gerald Schweiger** (lab head) <br> 
-**Thomas Schwengler** (student assistant): Scalable IoT solutions <br> 
-**Sandra Wifling** (PhD student, Master in Information and Computer Engineering): Combining physical and ML modeling <br> 
-**Susanne Wulz** (student assistant, Bachelor in Computer Science): Transfer learning for energy prediction <br> 
+**Nikolaus Kopp** - student assistant, Bachelor in Computer Science: Energy profiling and forecasting  <br> 
+**Tomi Nord** - student assistant, Bachelor in Mechanical Engineering: User-centered energy services <br> 
+**Dominik Scheiber** - student assistant, Bachelor in Computer Science: Scalable IoT solutions <br> 
+**Sabrina Schönfelder** - student assistant, Bachelor in Economics: Project management <br> 
+**Thomas Schranz** - PhD student, Master in Computer Science: Physics informed machine learning <br> 
+**Gerald Schweiger** - lab head <br> 
+**Thomas Schwengler** - student assistant: Scalable IoT solutions <br> 
+**Sandra Wifling** - PhD student, Master in Information and Computer Engineering: Combining physical and ML modeling <br> 
+**Susanne Wulz** - student assistant, Bachelor in Computer Science: Transfer learning for energy prediction <br> 
 
 
 ## Ongoing Projects
