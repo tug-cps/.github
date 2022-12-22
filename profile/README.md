@@ -13,7 +13,7 @@ Our interdisciplinary research group aims to bridge the gap between basic and ap
 
 Our [Paper](https://dl.acm.org/doi/abs/10.1145/3567591) "Constructing neural network-based models for simulating dynamical systems" got accepted in ACM Computing Surveys.
 
-Our [Paper](https://www.researchgate.net/publication/363770008_Short_Paper_Learning_Non-linear_White-box_Predictors_A_Use_Case_in_Energy_Systems) "Learning Non-linear White-box Predictors" got accepted at IEEE International Conference on Machine Learning and Applications ([IEEE ICMLA](https://www.icmla-conference.org/icmla22/IEEE-ICMLA-2022-Conference-Program.pdf))
+Our [Paper](https://www.researchgate.net/publication/363770008_Short_Paper_Learning_Non-linear_White-box_Predictors_A_Use_Case_in_Energy_Systems) "Learning Non-linear White-box Predictors" got accepted at IEEE Conference on ML and Applications ([IEEE ICMLA](https://www.icmla-conference.org/icmla22/IEEE-ICMLA-2022-Conference-Program.pdf))
 
 Our [Paper](https://www.climatechange.ai/papers/neurips2022/102) "Deep learning-based bias adjustment of decadal climate predictions" got accepted at NeurIPS 2022 Workshop.
 
