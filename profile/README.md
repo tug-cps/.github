@@ -22,19 +22,19 @@ The project [OctoAI](https://projekte.ffg.at/projekt/4424980) will start in Janu
 
 ## People
 
-**Qamar Alfalouji** (PhD student): 'phd.. title' ...<br> 
-**Milos Babic** (student assistant): <br> 
-**Mina Basirat** (PostDoc): <br> 
-**Masoud Ebrahimi** (PostDoc): <br> 
-**Johannes Exenberger** (PhD student): <br> 
-**Nikolaus Kopp** (student assistant): <br> 
-**Tomi Nord** (student assistant): <br> 
-**Dominik Scheiber** (student assistant): <br> 
-**Sabrina Schönfelder** (student assistant): <br> 
-**Thomas Schranz** (PhD student): <br> 
+**Qamar Alfalouji** (PhD student, master in ICT Engineering): Robust Machine Learning <br> 
+**Milos Babic** (student assistant, Bachelor in Computer Science): IoT and energy services <br> 
+**Mina Basirat** (PostDoc, PhD in Computer Science):  <br> 
+**Masoud Ebrahimi** (PostDoc, PhD in Computer Science): Robust Cyber Physical Systems <br> 
+**Johannes Exenberger** (PhD student, Master in Geospatial Technologies): Probabilistic Machine Learning <br> 
+**Nikolaus Kopp** (student assistant, Bachelor in ): Energy profiling and forecasting  <br> 
+**Tomi Nord** (student assistant, Bachelor in Mechanical Engineering): User-centered energy services <br> 
+**Dominik Scheiber** (student assistant, Bachelor in Computer Science): Scalable IoT solutions <br> 
+**Sabrina Schönfelder** (student assistant, Bachelor in Economics): <br> 
+**Thomas Schranz** (PhD student, Master in Computer Science): Physics informed machine learning <br> 
 **Gerald Schweiger** (lab head) <br> 
-**Thomas Schwengler** (student assistant): <br> 
-**Sandra Wifling** (PhD student): <br> 
-**Susanne Wulz** (student assistant): <br> 
+**Thomas Schwengler** (student assistant): Scalable IoT solutions <br> 
+**Sandra Wifling** (PhD student, Master in Information and Computer Engineering): Combining physical and ML modeling approaches <br> 
+**Susanne Wulz** (student assistant, Bachelor in Computer Science): Transfer learning for energy prediction <br> 
 
 
