@@ -11,6 +11,9 @@ Our interdisciplinary research group aims to bridge the gap between basic and ap
 
 ## Recent News 
 
+Gerald's [thoughts](https://medium.com/@schweiger.gerald/on-money-science-907b47aa6abd) on science, funding, and excellence.
+
+Our [Paper](https://dl.acm.org/doi/abs/10.1145/3567591) "Constructing neural network-based models for simulating dynamical systems" got accepted in ACM Computing Surveys.
 
 Our [Paper](https://dl.acm.org/doi/abs/10.1145/3567591) "Constructing neural network-based models for simulating dynamical systems" got accepted in ACM Computing Surveys.
 
