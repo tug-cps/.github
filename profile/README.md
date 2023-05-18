@@ -1,4 +1,4 @@
-#  Intelligent Systems Group
+#  Intelligent Buildings and Energy Systems Group
 ### TU Graz, Institute of Software Technology 
 
 Our interdisciplinary research group aims to bridge the gap between basic and applied research. One of the main focuses of the group is the application of computing technologies and AI to the design and optimization of intelligent energy systems, with the goal of developing more efficient, sustainable, and resilient energy infrastructure. Our research themes include 
