@@ -15,8 +15,6 @@ Gerald's [thoughts](https://medium.com/@schweiger.gerald/on-money-science-907b47
 
 Our [Paper](https://dl.acm.org/doi/abs/10.1145/3567591) "Constructing neural network-based models for simulating dynamical systems" got accepted in ACM Computing Surveys.
 
-Our [Paper](https://dl.acm.org/doi/abs/10.1145/3567591) "Constructing neural network-based models for simulating dynamical systems" got accepted in ACM Computing Surveys.
-
 Our [Paper](https://www.researchgate.net/publication/363770008_Short_Paper_Learning_Non-linear_White-box_Predictors_A_Use_Case_in_Energy_Systems) "Learning Non-linear White-box Predictors" got accepted at IEEE Conference on ML and Applications ([IEEE ICMLA](https://www.icmla-conference.org/icmla22/IEEE-ICMLA-2022-Conference-Program.pdf))
 
 Our [Paper](https://www.climatechange.ai/papers/neurips2022/102) "Deep learning-based bias adjustment of decadal climate predictions" got accepted at NeurIPS 2022 Workshop.
@@ -53,7 +51,8 @@ The project [PersonAI](https://projekte.ffg.at/projekt/4762145) start in Novembe
 **Adil Mukhtar** - Postdoc <br> 
 **Johannes Exenberger** - PhD student <br> 
 **Gerda Langer** - Master student <br> 
-**Cristina Vera Zambrano** - Master student <br> 
+**Cristina Vera Zambrano** - Master student <br>
+**Gillsu George Thekkekara Puthenparampil** - Master student <br>
 **Bernhard Lugger** - Master student <br> 
 **Fabian Zehetmair** - Student assistant <br> 
 **Richard Kraus** - Student assistant <br> 
