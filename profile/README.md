@@ -49,12 +49,15 @@ The project [PV DiKlaWi](https://www.zukunftsfonds.steiermark.at/cms/beitrag/128
 
 ## People
 
-**Gerald Schweiger** - lab head, Habilitation in Intelligent Energy Systems <br> 
-**Johannes Exenberger** (PhD student, Master in Geospatial Technologies): Probabilistic Machine Learning <br> 
-**Tomi Nord** - student assistant, Bachelor in Mechanical Engineering: User-centered energy services <br> 
-**Sabrina Schönfelder** - student assistant, Bachelor in Economics: Project management <br> 
-**Thomas Schwengler** - student assistant: Scalable IoT solutions <br> 
-**Sandra Wifling** - PhD student, Master in Information and Computer Engineering: Combining physical and ML modeling <br> 
+**Gerald Schweiger** - lab head <br> 
+**Thomas Hirsch** - Postdoc <br> 
+**Adil Mukhtar** - Postdoc <br> 
+**Johannes Exenberger** - PhD student <br> 
+**Gerda Langer** - Master student <br> 
+**Cristina Vera Zambrano** - Master student <br> 
+**Bernhard Lugger** - Master student <br> 
+**Fabian Zehetmair** - Student assistant <br> 
+**Richard Kraus** - Student assistant <br> 
 
 
 ## Ongoing Projects
