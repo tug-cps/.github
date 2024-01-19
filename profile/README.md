@@ -29,11 +29,10 @@ Our [Paper](https://www.mdpi.com/2075-5309/12/5/526) "IoT Middleware Platforms f
  
  <hr /> 
 
-The project [OctoAI](https://projekte.ffg.at/projekt/4424980) will start in January 2023. In OctoAI, we are developing the next generation of high-performance edge-AI for intelligent systems.
+The project [Ecom4Future](https://projekte.ffg.at/projekt/4828487) start in January 2024.
+The project [Autology](https://projekte.ffg.at/projekt/4762126) start in November 2023.
+The project [PersonAI](https://projekte.ffg.at/projekt/4762145) start in November 2023.
 
-The project [Distel](https://www.zukunftsfonds.steiermark.at/cms/beitrag/12891947/967663/) will start in January 2023. DISTEL's goal is to develop the next generation of physics-informed ML to control districts with high shares of storage.
-
-The project [PV DiKlaWi](https://www.zukunftsfonds.steiermark.at/cms/beitrag/12891947/967663/) will start in January 2023. The project will develop a camera system and a AI-based diagnostic method for fault detection of PV systems.
 
  <hr /> 
  
@@ -49,7 +48,7 @@ The project [PV DiKlaWi](https://www.zukunftsfonds.steiermark.at/cms/beitrag/128
 
 ## People
 
-**Gerald Schweiger** - lab head <br> 
+**Gerald Schweiger** - Lab head <br> 
 **Thomas Hirsch** - Postdoc <br> 
 **Adil Mukhtar** - Postdoc <br> 
 **Johannes Exenberger** - PhD student <br> 
